@@ -1,0 +1,10 @@
+version = 0.27.0
+profile = default
+break-separators = after
+break-infix = fit-or-vertical
+break-cases = all
+field-space = loose
+sequence-style = separator
+type-decl = sparse
+wrap-comments = true
+margin = 120  # Increase this value to allow longer lines
